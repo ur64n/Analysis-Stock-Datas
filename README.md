@@ -1,6 +1,7 @@
-# Stock Analysis
+# Stock Analysis - Description
 
-This project analyzes the stock prices of Apple (AAPLE), Google (GOOGLE), and Microsoft (MS) using Python. The analysis includes data cleaning, structuring, and visualization.
+This project analyzes the stock prices of Apple, Google, and Microsoft in the time frame 2023-2024, using Python. 
+The analysis includes ETL data: Extraction, cleaning, structuring, and visualization.
 
 ## Files
 
@@ -18,3 +19,18 @@ The following visualizations are included in the Jupyter Notebook:
 
 ## How to Run
 
+Use link below to create copy in your repository.
+
+GitClone -> https://github.com/yourusername/stock-analysis.git
+
+--------------------------------------------------------------
+
+1. Instalation requierd libraries in Python. Run this commands in your console for install:
+
+pip install pandas matplitlib
+
+2. Launch jupyer notebook using command below
+
+jupyter notebook stock_analysis.ipynb
+
+--------------------------------------------------------------
